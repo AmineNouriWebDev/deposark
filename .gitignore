@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Fichiers FTP sensibles
+sftp.json
+
+# Logs
+*.log
+
+# Archives temporaires
+*.zip
+*.tar.gz
+
+# Dépendances (si tu utilises npm ou Composer dans ton thème)
+node_modules/
+vendor/
+
+# Fichiers système
+Thumbs.db
+
+# Cache
+.cache/
